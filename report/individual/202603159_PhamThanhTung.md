@@ -7,7 +7,7 @@
 ## 0. Thông tin học viên
 
 - Họ tên:Pham Thanh Tùng                
-- MSSV: 202603519       
+- MSSV: 202603159       
 - Mã đề (A/B/C):A
 - Email:tungpham1824@gmail.com  
 - Link repository:https://github.com/tungpham1824/K5-L2-Day05-PhamThanhTung-03519-MOTTracking.git
